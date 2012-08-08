@@ -9,4 +9,5 @@
   <project name="R-M-S/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings"/>
   <project name="R-M-S/android_packages_apps_Settings" path="packages/apps/Settings" revision="master" />
+  <project name="R-M-S/android_vendor_cm" path="vendor/cm" revision="master" />
   </manifest>
