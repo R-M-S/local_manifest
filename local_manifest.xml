@@ -7,5 +7,4 @@
   <remove-project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" />
   <project name="R-M-S/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="master" />
   <project name="R-M-S/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
-  <project name="R-M-S/android_packages_apps_settings" path="packages/apps/settings" revision="master" />
   </manifest>
