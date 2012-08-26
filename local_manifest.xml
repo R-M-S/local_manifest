@@ -11,6 +11,12 @@
  <remove-project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" />
  <project name="R-M-S/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="master" />
  
+ <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" />
+ <project name="R-M-S/android_packages_apps_Settings" path="packages/apps/Settings" revision="master" />
+ 
+ <remove-project name="CyanogenMod/android_frameworks_base" path="frameworks/base" />
+ <project name="R-M-S/android_frameworks_base" path="frameworks/base" revision="master" />
+ 
 
   
   </manifest>
